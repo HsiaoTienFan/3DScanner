@@ -1,1 +1,3 @@
 # 3DScanner
+
+Senior project
