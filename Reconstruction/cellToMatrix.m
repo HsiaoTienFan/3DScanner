@@ -1,1 +1,30 @@
+b1 = objPict(1,1);
+b2 = objPict(1,2);
+b3 = objPict(1,3);
+b4 = objPict(1,4);
+b5 = objPict(1,5);
+b6 = objPict(1,6);
+b7 = objPict(1,7);
+b8 = objPict(1,8);
+b9 = objPict(1,9);
+b10 = objPict(1,10);
+b11 = objPict(1,11);
+b12 = objPict(1,12);
+b13 = objPict(1,13);
+b14 = objPict(1,14);
+
+a1 = objPict(2,1);
+a2 = objPict(2,2);
+a3 = objPict(2,3);
+a4 = objPict(2,4);
+a5 = objPict(2,5);
+a6 = objPict(2,6);
+a7 = objPict(2,7);
+a8 = objPict(2,8);
+a9 = objPict(2,9);
+a10 = objPict(2,10);
+a11 = objPict(2,11);
+a12 = objPict(2,12);
+a13 = objPict(2,13);
+a14 = objPict(2,14);
 

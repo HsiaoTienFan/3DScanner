@@ -1,0 +1,13 @@
+i = 1;
+wow = 0;
+while j < 5119
+temp = [1 0 1 0 0 0 0 0 1 1 0 0 0 0];
+
+
+while i < 2560
+if center1(i,:) == temp
+    wow = wow +1 ;
+end 
+    i = i+1;
+    
+end 
