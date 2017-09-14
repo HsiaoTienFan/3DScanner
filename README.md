@@ -1,3 +1,3 @@
 # 3DScanner
 
-Senior project
+University of Auckland: Senior year project
